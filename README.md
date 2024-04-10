@@ -1,2 +1,2 @@
 # e-commerce-amazon-server
-Author: Sudhir Kumar
+Author: Sudhir Kumar Patel
